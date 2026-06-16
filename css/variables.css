@@ -1,0 +1,16 @@
+:root {
+  --navy:        #0f172a;
+  --navy2:       #1e293b;
+  --slate:       #334155;
+  --muted:       #64748b;
+  --border:      #e2e8f0;
+  --accent:      #2563eb;
+  --accent-light:#eff6ff;
+  --accent-mid:  #93c5fd;
+  --white:       #ffffff;
+  --surface:     #f8fafc;
+  --text:        #0f172a;
+  --radius:      10px;
+  --font:        'DM Sans', sans-serif;
+  --mono:        'DM Mono', monospace;
+}

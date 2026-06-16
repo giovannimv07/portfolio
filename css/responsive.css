@@ -1,0 +1,25 @@
+@media (max-width: 640px) {
+  #hero {
+    grid-template-columns: 1fr;
+  }
+
+  .avatar {
+    display: none;
+  }
+
+  .about-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .contact-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .stats-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .nav-links {
+    gap: 1rem;
+  }
+}
