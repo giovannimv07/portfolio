@@ -1,6 +1,6 @@
 Giovanni Maldonado — Portfolio
 Personal portfolio website showcasing my projects, skills, and experience as a Software Engineer.
-Live Site:
+Live Site: giovannimv.vercel.app
 
 About
 This is my personal portfolio site built with HTML, CSS, and JavaScript — no frameworks or dependencies. It includes sections for my background, technical skills, projects, work experience, and contact information.
